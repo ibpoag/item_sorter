@@ -1,0 +1,207 @@
+1. I am easily stressed out.
+2. I often feel like staying in bed and not facing the world.
+3. I am easily angered.
+4. I have a lot of aches and pains.
+5. It is unfair that I have to work so hard for what I have when others get things so easily.
+6. People would describe me as energetic.
+7. I prefer activities that let me be with other people.
+8. I enjoy being the center of attention.
+9. I like parties.
+10. I often put others’ concerns before my own.
+11. I tend to give people the benefit of the doubt.
+12. I sometimes lie to get out of trouble.
+13. It is better to be modest and humble than to be proud and boastful.
+14. It is easy for me to stay on task.
+15. I follow through on commitments I make.
+16. I consider all the possibilities before reaching conclusions.
+17. I have many plans for the future.
+18. I keep careful track of my schedule.
+19. I enjoy spending time in museums or art galleries.
+20. I’ll try anything once.
+21. I’m a bit unconventional.
+22. I’m very emotional.
+23. I sometimes feel that I will never be completely happy.
+24. People have told me to lighten up.
+25. Sometimes I am so nervous that my stomach gets upset.
+26. Sometimes I wish I had things that others have.
+27. I generally enjoy life.
+28. I enjoy working in groups.
+29. I usually take charge in a group of people.
+30. I like to be where the action is.
+31. I sometimes blurt out what I am thinking.
+32. I always try to cooperate with others.
+33. Most people are good-hearted.
+34. I often make snide comments.
+35. I do not consider myself a boastful person.
+36. I am able to quickly settle down to work.
+37. If I borrow something, I always return it.
+38. I take my time when making decisions.
+39. I work hard to achieve my goals.
+40. I like to keep things neat and clean.
+41. I enjoy learning for learning’s sake.
+42. I like having new experiences.
+43. I usually disagree with the “status quo.”
+44. I constantly worry about things that might have gone wrong.
+45. Life looks pretty bleak.
+46. I get upset very easily.
+47. It seems like I get sick more than other people.
+48. I often feel that other people have an unfair advantage.
+49. My life is exciting.
+50. I enjoy spending time with people.
+51. People would describe me as a leader.
+52. I enjoy the sensation of going really fast.
+53. I say what I think, even when people might not want to hear it.
+54. I always try to consider the needs of others.
+55. People are basically trustworthy.
+56. I can be somewhat self-centered.
+57. I’m not one to boast or brag.
+58. I am very self-disciplined.
+59. I keep my promises.
+60. I carefully weigh all my options before making a decision.
+61. I have many long-term goals I am working toward.
+62. I am highly organized.
+63. A well-educated person should know something about poetry and art.
+64. I am tolerant of different lifestyles and cultures.
+65. I’m liberal-minded.
+66. I am oversensitive to criticism.
+67. I have a tendency to assume the worst.
+68. I get impatient with people easily.
+69. I frequently suffer from indigestion or upset stomach.
+70. I often envy what other people have.
+71. I lead an interesting life.
+72. I prefer to be with other people rather than alone.
+73. I enjoy performing in front of others.
+74. I am an adventurous person.
+75. I speak my mind.
+76. I try to take others’ feelings into account.
+77. Most people are basically honest.
+78. I’m a good liar.
+79. I try to be modest about my accomplishments.
+80. I am able to focus on what I’m working on.
+81. I take my responsibilities seriously.
+82. I consider the consequences of my actions before I do anything.
+83. People would describe me as ambitious.
+84. I like to keep everything in its proper place.
+85. I’m a very creative thinker.
+86. Every once in a while, I like to shake things up and try something different.
+87. I tend to take an unconventional approach to things.
+88. I find myself worrying a lot.
+89. I feel worthless at times.
+90. People tell me I am moody.
+91. I often feel jittery or “on edge.”
+92. I sometimes find that I resent the success of others.
+93. I have more energy than most people I know.
+94. I often like to be left alone.
+95. I like to take control of a situation.
+96. I am looking for a lot of excitement in my life.
+97. I can be pretty blunt.
+98. I go out of my way to be pleasant to people.
+99. I generally take people at their word.
+100. I generally take people at their word.
+101. I am good at manipulating others.
+102. I would describe myself as humble.
+103. When doing a job, I get right to work.
+104. I pay my bills on time.
+105. I’d rather be safe than sorry.
+106. I have set high goals for myself.
+107. I am very detail-oriented.
+108. I enjoy going to artistic events.
+109. I’m curious about many different things.
+110. I would characterize my values as conservative.
+111. I sometimes feel nervous for no good reason.
+112. It takes a lot to make me anxious.
+113. Sometimes I feel like I am all alone in the world.
+114. I take out my frustrations on others.
+115. I am often bothered by an upset stomach.
+116. I am prone to jealousy.
+117. My pace is quick and energetic.
+118. It takes a long time for people to get to know me.
+119. I would enjoy having a position of power.
+120. I enjoy intense, exciting experiences.
+121. I am pretty frank and open with others.
+122. I always try to help people in need.
+123. I think most people act in good faith.
+124. I have a somewhat biting wit.
+125. I don’t like to brag about my accomplishments.
+126. I often leave things until the last minute.
+127. Other people can always count on me.
+128. I am spontaneous.
+129. I am willing to sacrifice in order to reach my goals.
+130. I have trouble keeping things in order.
+131. I consider myself somewhat artistic.
+132. I like taking new approaches to tasks.
+133. Our government should work to preserve traditional values.
+134. I am not a very tense person.
+135. I have a positive opinion of myself.
+136. I have a quick temper.
+137. I am quite tolerant of alternative points of view.
+138. I have a lot of headaches.
+139. It does not bother me when I see others who have more than I do.
+140. I would describe myself as cheerful.
+141. My friends would describe me as reserved.
+142. I do not enjoy being the leader in a group.
+143. I like places that are crowded and exciting.
+144. I am not a very assertive person.
+145. I really don’t care to listen to people’s sob stories.
+146. I have a hard time taking someone’s word.
+147. I am sometimes rude to others.
+148. Some people may think that I am arrogant.
+149. I tend to slack off when other people aren’t around.
+150. I am very dependable.
+151. I sometimes don’t think things through very carefully before acting.
+152. I’m not all that interested in being a big success.
+153. People think I’m messy.
+154. I enjoy hearing about other cultures.
+155. I’m pretty old-fashioned.
+156. I do not scare easily.
+157. I rarely feel blue for long periods of time.
+158. I’m usually pretty even-tempered.
+159. I rarely get headaches or stomachaches.
+160. I would not describe myself as an envious person.
+161. I tend to be playful around other people.
+162. I could be quite happy living by myself.
+163. I am uncomfortable being the center of attention.
+164. I would rather stay home than go to a party.
+165. I keep my opinions to myself.
+166. I don’t go out of my way to help people.
+167. It is difficult for me to trust others completely.
+168. I will bend the rules if it serves a useful purpose.
+169. I like to show off whenever I can.
+170. I tend to procrastinate.
+171. I’m not very dependable.
+172. I am often impulsive.
+173. I can be a bit disorganized.
+174. My friends think of me as somewhat philosophical.
+175. I like to try new things.
+176. I am pretty traditional at heart.
+177. I seem to have fewer worries than other people.
+178. I don’t get depressed very often.
+179. I am pretty calm most of the time.
+180. I do not worry about what others have.
+181. I am a bit of a loner.
+182. Some people see me as insensitive.
+183. Most people are only looking out for themselves.
+184. If I knew I wouldn’t get caught, I’d be willing to break the law.
+185. I can’t understand why some people are reluctant to talk about their accomplishments.
+186. I often don’t finish big projects I start.
+187. I would rather make a quick decision than spend a lot of time thinking about it.
+188. I like classical music.
+189. I rarely do things just because it’s something different to do.
+190. The traditional family is essential to our society.
+191. I am pretty emotionally stable.
+192. It takes a lot to make me angry.
+193. I try not to compare myself to others.
+194. I don’t bother wasting time being polite.
+195. Other people will take advantage of you to get ahead.
+196. Stealing is wrong, even when it involves little things that would never be missed.
+197. People say I brag too much.
+198. I am not responsible.
+199. I would be bored at events like ballet or poetry readings.
+200. I’d rather stay home than visit a foreign place.
+201. I prefer the comfortable and familiar to the new and different.
+202. Most people are willing to cheat to get ahead.
+203. I believe in the old saying that “Cheaters never win.”
+204. I am not very creative.
+205. I don’t care much for traveling.
+206. I believe in strict standards of right and wrong.
+207. I believe that there is a proper way to behave in almost any situation.
